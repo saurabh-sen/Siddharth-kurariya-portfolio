@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'These are the best work did by me any suggestion on these would be appriciated ',
     info2: '',
     url:
-      'https://www.instagram.com/p/CjDbOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf',
+      'https://www.instagram.com/p/CJDBOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -43,7 +43,7 @@ export const projectsData = [
     info: 'Publicaly most demanded design',
     info2: '',
     url:
-      'https://www.instagram.com/p/CjDbOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf',
+      "https://www.instagram.com/p/CJDBOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf",
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -53,7 +53,7 @@ export const projectsData = [
     info: 'Want to known publicaly then this design for you only',
     info2: '',
     url:
-      'https://www.instagram.com/p/CjDbOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf',
+      'https://www.instagram.com/p/CJDBOgXFVLEOUhNoQsvx97bmLFWQvg3ftzAfDc0/?igshid=1wj29p60lpevf',
     repo: '', // if no repo, the button will not show up
   },
 ];
